@@ -2,7 +2,7 @@
 
 Aplicação da metodologia Box–Jenkins à série mensal do preço do ouro (USD/onça), 2000–2024.
 
-**Disciplina:** Elementos de Séries Temporais — Curso de Ciências Atuariais, UFC
+**Disciplina:** Elementos de Séries Temporais, UFC
 **Professor:** Dr. Daniel Tomaz
 **Autor:** Diego Lopes
 
